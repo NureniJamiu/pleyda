@@ -8,9 +8,6 @@ export const onSubmit = async (
 ) => {
   if (!values) return;
 
-  // const baseUrl = "https://backend.getlinked.ai";
-  // const endpoint = `${baseUrl}${pathname}`;
-
   try {
     setIsLoading(true);
     await axios.post(

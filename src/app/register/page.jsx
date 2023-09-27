@@ -12,7 +12,7 @@ const Page = () => {
         <div className="flex flex-col md:flex-row md:items-center gap-0 md:gap-8">
           {/* Flex one */}
           <div
-            className="md:relative w-[800px] h-[500px] px-12 pt-5 md:px-0 md:pt-0 flex-1 bg-green-500"
+            className="md:relative w-[800px] h-[500px] px-12 pt-5 md:px-0 md:pt-0 flex-1 "
             data-aos="fade-up"
             data-aos-duration="1000"
           >

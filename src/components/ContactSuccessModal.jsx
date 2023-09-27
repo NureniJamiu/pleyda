@@ -10,7 +10,7 @@ const ContactSuccessModal = ({ isOpen, onClose }) => {
         isOpen ? "" : "hidden"
       }`}
     >
-      <div className="border border-[#D434FE] bg-[#150E28] bg-opacity-95 p-8 rounded shadow-md text-center">
+      <div className="border border-[#D434FE] bg-white bg-opacity-95 p-8 rounded shadow-md text-center">
         <div>
           <Image
             src={congratulation}

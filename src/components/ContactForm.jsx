@@ -15,8 +15,8 @@ const ContactForm = () => {
   const initialValues = {
     first_name: "",
     email: "",
-    message: "",
     phone_number: "",
+    message: "",
   };
 
   const { values, errors, touched, handleBlur, handleChange, handleSubmit } =
