@@ -40,7 +40,7 @@ const Navbar = ({ className }) => {
 
           <div>
             <div className="lg:hidden cursor-pointer" onClick={handleToggle}>
-              <span>
+              <span className="text-red-700">
                 <Menu />
               </span>
             </div>

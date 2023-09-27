@@ -26,7 +26,7 @@ const Mission = () => {
 
         <div className="md:flex-1 text-center md:text-left">
           <Subheader title="Our Mission" subtitle="Statement" />
-          <p className="my-5">
+          <p className="my-5 text-left">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque
             minima beatae quisquam reprehenderit exercitationem possimus, dicta
             laborum aperiam ullam voluptas recusandae cum rerum numquam itaque
