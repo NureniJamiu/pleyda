@@ -16,8 +16,8 @@ const clash_display = localFont({
 });
 
 export const metadata = {
-  title: "getLinked AI",
-  description: "Getlinked AI Hackathon",
+  title: "PLEYDA",
+  description: "Productivity our watchword",
 };
 
 export default function RootLayout({ children }) {
