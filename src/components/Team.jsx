@@ -39,7 +39,7 @@ const slides = [
     image: badru,
   },
   {
-    name: "Mr. Amanah Alao Seneire",
+    name: "Miss. Amanah Alao Seneire",
     position: "Welfare Director",
     image: amana,
   },
