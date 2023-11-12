@@ -13,7 +13,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Cta from "@/components/cta";
 import Quote from "@/components/Quote";
-import Team from "@/components/team";
+import Team from "@/components/Team";
 
 export default function Home() {
   useEffect(() => {
