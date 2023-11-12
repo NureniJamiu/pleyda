@@ -10,6 +10,7 @@ import heroImage from "../../public/DSC_8221.jpg";
 import grayStar from "../../public/star-gray.png";
 import flare from "../../public/purple-flare.png";
 import Star from "./Star";
+import Link from "next/link";
 
 const Hero = () => {
   const [timeLeft, setTimeLeft] = useState(24 * 60 * 60);
@@ -71,9 +72,11 @@ const Hero = () => {
             </p>
 
             <div className="relative text-center w-60 mx-auto lg:mx-0 lg:text-left">
-              <Button className="btn-gradient rounded px-8 py-6 my-6 md:w-44">
-                Get Involved
-              </Button>
+              <Link href="/register">
+                <Button className="btn-gradient rounded px-8 py-6 my-6 md:w-44">
+                  Get Involved
+                </Button>
+              </Link>
               <Star
                 name={grayStar}
                 size={8}
