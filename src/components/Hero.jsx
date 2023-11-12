@@ -5,9 +5,8 @@ import Image from "next/image";
 import { Button } from "./ui/button";
 
 import line from "../../public/line.png";
-import heroImage from "../../public/hero.png";
-import lamp from "../../public/hero-lamp.png";
-import whiteStar from "../../public/star-white.png";
+import heroImage from "../../public/DSC_8221.jpg";
+// import heroImage from "../../public/hero.png
 import grayStar from "../../public/star-gray.png";
 import flare from "../../public/purple-flare.png";
 import Star from "./Star";

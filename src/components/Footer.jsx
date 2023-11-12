@@ -19,10 +19,11 @@ const Footer = () => {
             <span className=" text-red-600 ">PLEYDA</span>
           </Link>
           <p className="mt-3 mb-16">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil,
-            itaque, autem similique commodi quaerat sapiente consequatur
-            corporis, cum consectetur fugiat hic cupiditate facere ipsa magnam.
-            Dolorem accusamus hic ex quia.
+            The Purposeful Leadership for Empowerment and Youth Development
+            Association (PLEYDA) was initiated in 2016 with the sole purpose of
+            assisting youths in realizing & developing their hidden potentials,
+            as well as building them to become outstanding leaders of the
+            future.
           </p>
 
           <p>

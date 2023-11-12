@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-import sectionImage from "../../public/service.png";
+import sectionImage from "../../public/DSC_8230.jpg";
 import grayStar from "../../public/star-gray.png";
 import Subheader from "./Subheader";
 import { Button } from "./ui/button";

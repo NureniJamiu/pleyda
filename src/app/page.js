@@ -12,6 +12,7 @@ import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Cta from "@/components/cta";
+import Quote from "@/components/Quote";
 
 export default function Home() {
   useEffect(() => {
@@ -21,6 +22,7 @@ export default function Home() {
     <div>
       <Navbar />
       <Hero />
+      <Quote />
       <Mission />
       <Vision />
       <Services />
