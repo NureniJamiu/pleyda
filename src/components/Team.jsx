@@ -29,7 +29,7 @@ const slides = [
     image: secretary,
   },
   {
-    name: "Dr. Ni'mat Ibinkunle",
+    name: "Dr. Ni'mat Ibikunle",
     position: "Member, Board of Trustees",
     image: member,
   },
