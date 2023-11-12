@@ -32,12 +32,10 @@ const Vision = () => {
         <div className="md:flex-1 text-center md:text-left">
           <Subheader title="A Glimpse into" subtitle="Tomorrow" />
           <p className="my-5 text-left">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            libero quisquam error quos sequi enim natus, pariatur quae deserunt,
-            aliquam dolores ex consequatur iusto. Asperiores, enim? Voluptas
-            expedita suscipit ratione? pariatur quae deserunt, aliquam dolores
-            ex consequatur iusto. Asperiores, enim? Voluptas expedita suscipit
-            ratione?
+            Our vision is to cultivate a future where empowered youths, armed
+            with invaluable skills and guided by moral principles rise as
+            exemplary leaders, fostering a society free from immorality and
+            marked by the realization and development of hidden potentials.
           </p>
         </div>
       </div>
