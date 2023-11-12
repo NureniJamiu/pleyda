@@ -1,5 +1,6 @@
 import React from "react";
 import { Button } from "./ui/button";
+import Link from "next/link";
 
 const Cta = () => {
   return (
@@ -8,9 +9,11 @@ const Cta = () => {
         <h2 className="text-3xl mb-6">
           Ready to start your journey towards purposeful leadership?
         </h2>
-        <Button className="btn-gradient px-10 w-full text-xl py-6">
-          Get Involved
-        </Button>
+        <Link href="/register">
+          <Button className="btn-gradient px-10 w-full text-xl py-6">
+            Get Involved
+          </Button>
+        </Link>
       </div>
     </section>
   );

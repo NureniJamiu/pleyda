@@ -36,10 +36,18 @@ const Footer = () => {
           <div className="flex-1">
             <h5 className="text-red-600 font-semibold mb-3">Useful Links</h5>
             <ul className="flex flex-col  gap-3">
-              <li>Mission</li>
-              <li>Team</li>
-              <li>Donate</li>
-              <li>Contact</li>
+              <Link href="#mission">
+                <li>Mission</li>
+              </Link>
+              <Link href="#team">
+                <li>Team</li>
+              </Link>
+              <Link href="#">
+                <li>Donate</li>
+              </Link>
+              <Link href="/contact">
+                <li>Contact</li>
+              </Link>
             </ul>
             <div className="mt-3 flex items-center gap-3">
               <span className="text-red-600">Follow us</span>
