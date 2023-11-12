@@ -24,11 +24,9 @@ const page = () => {
             <h2 className="text-2xl font-clash text-red-500">Get in touch</h2>
             <div className="flex flex-col gap-5 my-5">
               <p className="w-32">Contact Information</p>
-              <p className="w-32">27,Alara Street Yaba 100012 Lagos State</p>
+              <p className="w-32">14, Ilori street, Isolo, Lagos. Nigeria</p>
               <p className="w-64">Call Us : 07067981819</p>
-              <p className="w-64">
-                We are open from Monday-Friday 08:00am - 05:00pm
-              </p>
+              <p className="">Email: pleydadesk@gmail.com</p>
             </div>
             <span className="text-red-500">Share on</span>
             <div className="flex items-center mt-2 gap-2">

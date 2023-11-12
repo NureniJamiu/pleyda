@@ -4,7 +4,7 @@ import { FaInstagram, FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 
 import { RiTwitterXFill } from "react-icons/ri";
 import { LuMapPin } from "react-icons/lu";
-import { PhoneCall } from "lucide-react";
+import { Mail, PhoneCall } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -71,7 +71,11 @@ const Footer = () => {
             <h5 className="text-red-600 font-semibold mb-3">Contact Us</h5>
             <div className="mt-3 flex items-center gap-3">
               <PhoneCall size={20} />
-              <span>+234 12345678</span>
+              <span>+234 8161 655 215</span>
+            </div>
+            <div className="mt-3 flex items-start gap-3">
+              <Mail size={22} />
+              <p className="w-32"> pleydadesk@gmail.com</p>
             </div>
             <div className="mt-3 flex items-start gap-3">
               <LuMapPin size={22} />
