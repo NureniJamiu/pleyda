@@ -1,5 +1,5 @@
 export const links = [
-  { title: "Mission", url: "#mission" },
+  { title: "About", url: "/about" },
   { title: "Team", url: "#team" },
   { title: "Donate", url: "#" },
   { title: "Contact", url: "/contact" },

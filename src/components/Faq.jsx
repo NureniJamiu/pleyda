@@ -27,8 +27,10 @@ const Faq = () => {
               data-aos="fade-up"
               data-aos-duration="1500"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis nemo
-              maiores, quae voluptatum a ducimus, in mollitia!
+              Below, you{"'"}ll find a list of frequently asked questions that
+              we commonly encounter. These questions cover a range of topics
+              related to our organization, its mission, activities, and how
+              individuals can get involved.
             </p>
           </div>
           <div>

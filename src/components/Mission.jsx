@@ -24,7 +24,7 @@ const Mission = () => {
 
         <div className="md:flex-1 text-center md:text-left">
           <Subheader title="Our Mission" subtitle="Statement" />
-          <p className="my-5 text-left">
+          <p className="text-left my-5">
             The Purposeful Leadership for Empowerment and Youth Development
             Association (PLEYDA) was initiated in 2016 as the {"'"}Youth Impact
             Club{"'"} with a group of Secondary School Students most of whom are

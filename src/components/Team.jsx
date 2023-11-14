@@ -13,7 +13,8 @@ import Subheader from "./Subheader";
 
 import chairman from "../../public/DSC_8239.jpg";
 import secretary from "../../public/DSC_8226.jpg";
-import member from "../../public/nimat.jpg";
+import member from "../../public/ayyub.jpg";
+import member2 from "../../public/nimat.jpg";
 import amana from "../../public/amana.jpg";
 import badru from "../../public/badru.jpg";
 
@@ -24,14 +25,19 @@ const slides = [
     image: chairman,
   },
   {
-    name: "Mr. Qasim Yusuf",
+    name: "Mr. Yinusa Kazeem A.",
     position: "Secretary, Board of Trustees",
     image: secretary,
   },
   {
-    name: "Dr. Ni'mat Ibikunle",
+    name: "Mr. Ayyub O. Arowooye",
     position: "Member, Board of Trustees",
     image: member,
+  },
+  {
+    name: "Dr. Ni'mat Ibikunle",
+    position: "Member, Board of Trustees",
+    image: member2,
   },
   {
     name: "Mr. Badrudeen Ajibola",
@@ -39,7 +45,7 @@ const slides = [
     image: badru,
   },
   {
-    name: "Miss. Amanah Alao Seneire",
+    name: "Miss. Amanah S. Alao",
     position: "Welfare Director",
     image: amana,
   },
