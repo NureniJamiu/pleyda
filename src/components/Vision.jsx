@@ -13,6 +13,17 @@ const Vision = () => {
       data-aos-duration="1500"
     >
       <div className="flex flex-col md:flex-row-reverse md:items-center gap-8 md:16">
+        <div className="md:flex-1 text-center md:text-left float-right">
+          <div className="md:text-right">
+            <Subheader title="A Glimpse into" subtitle="Tomorrow" />
+          </div>
+          <p className="my-5 text-left md:text-right">
+            Our vision is to cultivate a future where empowered youths, equipped
+            with invaluable skills and guided by moral principles rise as
+            exemplary leaders, fostering a society free from immorality and
+            marked by the realization and development of hidden potentials.
+          </p>
+        </div>
         <div className="md:flex-1 relative">
           <Image
             src={sectionImage}
@@ -27,16 +38,6 @@ const Vision = () => {
             alt="white star"
             className="absolute top-32 left-0 md:top-80 animate-ping"
           />
-        </div>
-
-        <div className="md:flex-1 text-center md:text-left">
-          <Subheader title="A Glimpse into" subtitle="Tomorrow" />
-          <p className="my-5 text-left">
-            Our vision is to cultivate a future where empowered youths, equipped
-            with invaluable skills and guided by moral principles rise as
-            exemplary leaders, fostering a society free from immorality and
-            marked by the realization and development of hidden potentials.
-          </p>
         </div>
       </div>
     </section>
