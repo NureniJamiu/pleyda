@@ -28,8 +28,8 @@ export default function Home() {
       <Vision />
       <Services />
       <Team />
-      <Faq />
       <Cta />
+      <Faq />
       <Footer />
     </div>
   );
