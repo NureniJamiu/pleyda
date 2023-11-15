@@ -30,14 +30,14 @@ const slides = [
     image: secretary,
   },
   {
-    name: "Mr. Ayyub O. Arowooye",
-    position: "Member, Board of Trustees",
-    image: member,
-  },
-  {
     name: "Dr. Ni'mat Ibikunle",
     position: "Member, Board of Trustees",
     image: member2,
+  },
+  {
+    name: "Mr. Ayyub O. Arowooye",
+    position: "Facilitator",
+    image: member,
   },
   {
     name: "Mr. Badrudeen Ajibola",
@@ -57,8 +57,8 @@ const Team = () => {
   return (
     <section
       className=" px-10 md:px-20 lg:px-28 border-b border-zinc-700 py-8"
-      // data-aos="fade-up"
-      // data-aos-duration="1500"
+      data-aos="fade-up"
+      data-aos-duration="1500"
     >
       <div className="mt-5">
         <div className="text-center">
