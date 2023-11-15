@@ -25,7 +25,7 @@ const page = () => {
             <div className="flex flex-col gap-5 my-5">
               <p className="w-32">Contact Information</p>
               <p className="w-32">14, Ilori street, Isolo, Lagos. Nigeria</p>
-              <p className="w-64">Call Us : 07067981819</p>
+              <p className="w-64">Call Us : +234-8161655215, +234-8029814146</p>
               <p className="">Email: pleydadesk@gmail.com</p>
             </div>
             <span className="text-red-500">Share on</span>
@@ -63,16 +63,25 @@ const page = () => {
                 <div className="md:hidden mt-8">
                   <span className="text-red-500">Share on</span>
                   <div className="flex items-center mt-2 gap-2">
-                    <Link href="https://instagram.com">
+                    <Link
+                      href="https://instagram.com/pleydayouths?igshid=OGQ5ZDc2ODk2ZA=="
+                      target="_blank"
+                    >
                       <FaInstagram size={20} />
                     </Link>
-                    <Link href="https://x.com">
+                    <Link href="https://twitter.com/PLEYDA360" target="_blank">
                       <RiTwitterXFill size={20} />
                     </Link>
-                    <Link href="https://facebook.com">
+                    <Link
+                      href="https://www.facebook.com/profile.php?id=100092273023834"
+                      target="_blank"
+                    >
                       <FaFacebookF size={20} />
                     </Link>
-                    <Link href="https://linkedin.com">
+                    <Link
+                      href="https://www.linkedin.com/in/pleyda-youths-278467299/"
+                      target="_blank"
+                    >
                       <FaLinkedinIn size={20} />
                     </Link>
                   </div>
