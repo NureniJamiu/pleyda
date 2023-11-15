@@ -12,7 +12,7 @@ const Vision = () => {
       data-aos="fade-up"
       data-aos-duration="1500"
     >
-      <div className="flex flex-col md:flex-row-reverse md:items-center gap-8 md:16">
+      <div className="flex flex-col-reverse md:flex-row-reverse md:items-center gap-8 md:16">
         <div className="md:flex-1 text-center md:text-left float-right">
           <div className="md:text-right">
             <Subheader title="A Glimpse into" subtitle="Tomorrow" />
