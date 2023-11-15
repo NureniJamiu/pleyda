@@ -25,13 +25,15 @@ const Mission = () => {
         <div className="md:flex-1 text-center md:text-left">
           <Subheader title="Our Mission" subtitle="Statement" />
           <p className="text-left my-5">
-            The Purposeful Leadership for Empowerment and Youth Development
-            Association (PLEYDA) was initiated in 2016 as the {"'"}Youth Impact
-            Club{"'"} with a group of Secondary School Students most of whom are
-            now graduates of various institutions across the country. Our
-            mission is to create a world where immorality and social vices are
-            seen as alien, whilst assisting youths realize and maximize their
-            potentials has always been our goal.
+            Our mission is to cultivate conscientious youths, equipping them
+            with essential and diverse skill sets that foster holistic
+            development. We aim to empower individuals who are poised to effect
+            positive change and drive meaningful impact across all facets of
+            society. Our commitment goes beyond the mere acquisition of valuable
+            skills; we aspire to nurture character, resilience, and a profound
+            sense of social responsibility. By doing so, we prepare our youth to
+            navigate challenges effectively and contribute meaningfully to the
+            creation of a better, more inclusive society.
           </p>
         </div>
       </div>
