@@ -52,16 +52,25 @@ const Footer = () => {
             <div className="mt-3 flex items-center gap-3">
               <span className="text-red-600">Follow us</span>
               <div className="flex items-center gap-2">
-                <Link href="https://instagram.com">
+                <Link
+                  href="https://instagram.com/pleydayouths?igshid=OGQ5ZDc2ODk2ZA=="
+                  target="_blank"
+                >
                   <FaInstagram size={20} />
                 </Link>
-                <Link href="https://x.com">
+                <Link href="https://twitter.com/PLEYDA360" target="_blank">
                   <RiTwitterXFill size={20} />
                 </Link>
-                <Link href="https://facebook.com">
+                <Link
+                  href="https://www.facebook.com/profile.php?id=100092273023834"
+                  target="_blank"
+                >
                   <FaFacebookF size={20} />
                 </Link>
-                <Link href="https://linkedin.com">
+                <Link
+                  href="https://www.linkedin.com/in/pleyda-youths-278467299/"
+                  target="_blank"
+                >
                   <FaLinkedinIn size={20} />
                 </Link>
               </div>
@@ -71,7 +80,7 @@ const Footer = () => {
             <h5 className="text-red-600 font-semibold mb-3">Contact Us</h5>
             <div className="mt-3 flex items-center gap-3">
               <PhoneCall size={20} />
-              <span>+234 8161 655 215</span>
+              <span>+234-8161655215, +234-8029814146</span>
             </div>
             <div className="mt-3 flex items-start gap-3">
               <Mail size={22} />
