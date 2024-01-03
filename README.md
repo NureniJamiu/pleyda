@@ -1,6 +1,6 @@
-# GetlinkedAI Tech Hackathon
+# The Purposedul Leadership for Empowerment & Youth Development Association (PLEYDA)
 
-![Project Banner Coming Soon!](https://getlinked-tech-hackathon.vercel.app/)
+![Project Banner Coming Soon!](https://pleyda.vercel.app/)
 
 ## Table of Contents
 
@@ -14,13 +14,13 @@
 
 ## About
 
-GetLinkedAI tech hackathon is a melting pot of visionaries, and its purpose is as clear as day: to shape the future. Whether you're a coding genius, a design maverick, or a concept wizard, you'll have the chance to transform your ideas into reality. Solving real-world problems, pushing the boundaries of technology, and creating solutions that can change the world, that's what we're all about!
+The Purposeful Leadership for Empowerment & Youth Development Association (PLEYDA) is an NGO on a mission to cultivate conscientious youths, equipping them with essential and diverse skill sets that foster holistic development. We aim to empower individuals who are poised to effect positive change and drive meaningful impact across all facets of society. Our commitment goes beyond the mere acquisition of valuable skills; we aspire to nurture character, resilience, and a profound sense of social responsibility.
 
 ## Demo
 
 Demo video coming soon, however, below is a live link to where it is hosted
 
-![Click here to view live](https://getlinked-tech-hackathon.vercel.app/)
+![Click here to view live](https://pleyda.vercel.app/)
 
 ## Technologies Used
 
@@ -39,10 +39,10 @@ Below is a list of some significant technologies used.
 
 ```bash
 # Clone the repository
-git clone https://github.com/NureniJamiu/getlinked-tech-hackathon.git
+git clone https://github.com/NureniJamiu/pleyda.git
 
 # Change to the project directory
-cd getlinked-tech-hackathon
+cd pleyda
 
 # Install dependencies
 npm install
